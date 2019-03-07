@@ -13,17 +13,23 @@ namespace The_Final.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Story()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Crew()
         {
-            ViewBag.Message = "Your contact page.";
+            return View();
+        }
 
+        public ActionResult Creators()
+        {
+            return View();
+        }
+
+        public ActionResult Ship()
+        {
             return View();
         }
     }
