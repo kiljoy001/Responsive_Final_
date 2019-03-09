@@ -25,7 +25,8 @@ namespace The_Final
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css",
-                      "~/Content/Video.css"
+                      "~/Content/Video.css",
+                      "~/Content/Crew.css"
                       ));
         }
     }
