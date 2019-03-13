@@ -32,5 +32,10 @@ namespace The_Final.Controllers
         {
             return View();
         }
+
+        public ActionResult Rationale()
+        {
+            return View();
+        }
     }
 }
