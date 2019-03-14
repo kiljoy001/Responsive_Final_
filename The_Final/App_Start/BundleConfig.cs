@@ -26,7 +26,8 @@ namespace The_Final
                       "~/Content/bootstrap.css",
                       "~/Content/Site.css",
                       "~/Content/Video.css",
-                      "~/Content/Crew.css"
+                      "~/Content/Crew.css",
+                      "~/Content/Montserrat.css"
                       ));
         }
     }
